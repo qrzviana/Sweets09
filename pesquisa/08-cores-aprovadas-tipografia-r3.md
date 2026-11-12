@@ -1,6 +1,6 @@
 # Rodada 8: cores aprovadas, checagem do nome e tipografia (rodada 3)
 
-*Data: 13/11/2026 · Canvas, página "Identidade v2", quadro V2 · 04*
+*Data: 12/11/2026 · Canvas, página "Identidade v2", quadro V2 · 04*
 
 ## ✅ Aprovado
 Paleta: **Sodium Black #0D0A12** (reflexo #3B1F5C, brilho #8C5BD0), Bone #ECE8E1, Smoke #8E8796 e **Signal Pink #FF2E7E** como ponto final (no máximo 1%).
