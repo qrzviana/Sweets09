@@ -15,7 +15,9 @@
 ## Audience
 - **Primary Audience**: 18–30 anos, unissex. Pessoas que correm na rua (run clubs, 5k/10k, iniciantes a intermediários) e/ou fazem treino híbrido (Hyrox, academia). Urbanas, ligadas em moda e streetwear, descobrem produtos no TikTok e no Instagram.
 - **Key Problem**: Querem pertencer à cultura da corrida e do treino sem o elitismo de pace e de performance, e com uma estética que funcione também fora do treino. O equipamento atual é ou "de academia" genérico ou luxo caro e elitista.
-- **Their Language**: "run club", "any pace", "hybrid athlete", "Hyrox", "long run", "PR", "fit check", "touch grass", "after work run" *(hipótese: validar na skill target-audience com comentários e entrevistas reais)*
+- **Their Language**: pertencimento > pace: "it's the social aspect that keeps me coming back", "finding your people", "running is the new way of socialising", "run club over nightclub"; vocabulário: run club, any pace, long run, first 10k, Hyrox, fit check, night run. Evitar jargão de elite (PB hunting, marginal gains). *(Validar com 10–15 conversas em run clubs de Londres.)*
+- **Personas**: Maya, 24, a Corredora Social (principal); Jordan, 28, o Atleta Híbrido; Theo, 22, o Corredor de Estilo/microcreator (amplificador). Ver `pesquisa/10-publico-alvo.md`.
+- **Not For**: atleta de elite movido a dados, comprador só de preço, frequentador casual de academia sem ligação com a cultura, ultramaratonista de trilha.
 
 ## Positioning
 - **Differentiation**: Marca *headwear-first*, nativa ao mesmo tempo da corrida e do treino híbrido, inclusiva no propósito ("qualquer ritmo") e dark/cinematográfica na estética. Conceito central: **"Só aparece quando a luz bate"** (a cor revela o roxo sob a luz, os detalhes refletivos acendem no flash).
