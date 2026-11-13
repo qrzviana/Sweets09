@@ -3,7 +3,8 @@
 > Atualizado em 13/11/2026 (rodadas 1–8 de `pesquisa/` + respostas do fundador na skill brand-context). Ainda pendente: validar a linguagem do público com entrevistas reais e a busca de marca do nome.
 
 ## Brand
-- **Name**: SODIUM (nome de trabalho; depende da busca de marca no UKIPO, EUIPO e USPTO, classe 25. Há risco nos EUA com a Sodium Fishing Gear)
+- **Name**: SODIUM (DEFINIDO em 13/11/2026; registro de marca no UKIPO a fazer, classes 25/18/35. Nos EUA há risco com a Sodium Fishing Gear: avaliar com advogado na fase 3)
+- **Instagram**: @sodium.run
 - **Category**: Headwear de corrida e treino híbrido (bonés 5-panel, toucas técnicas, headbands; mais tarde viseiras e bandanas), com estética streetwear
 - **Description**: Headwear para quem corre a cidade e treina pesado, em qualquer ritmo e a qualquer hora.
 - **Stage**: Pré-lançamento. Lançamento previsto entre jan e fev de 2027 com o trio de inverno (boné, touca e headband)
