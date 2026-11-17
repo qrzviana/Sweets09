@@ -21,6 +21,7 @@
 
 ## Positioning
 - **Differentiation**: Marca *headwear-first*, nativa ao mesmo tempo da corrida e do treino híbrido, inclusiva no propósito ("qualquer ritmo") e dark/cinematográfica na estética. Conceito central: **"Só aparece quando a luz bate"** (a cor revela o roxo sob a luz, os detalhes refletivos acendem no flash).
+- **Competitive insight (rodada 12)**: pertencimento ("any pace") já tem dono (Ciele "Everybody run", Tracksmith "amateur spirit") e "community" é clichê. Território livre: **noite/cidade dark + cultura** e **corrida + treino híbrido numa só identidade**. Liderar com "Any hour" e usar "Any pace" como apoio. Ver `pesquisa/12-concorrentes-branding.md`.
 - **Competitors**: Ciele Athletics (headwear de corrida), Satisfy, Bandit, District Vision, Tracksmith (corrida premium/lifestyle), Puma × Hyrox (headwear híbrido), Melin (headwear premium)
 - **Market Position**: Premium acessível (boné US$ 38–45, touca US$ 35–42, headband US$ 22–28)
 
