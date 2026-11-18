@@ -20,6 +20,7 @@
 - **Not For**: atleta de elite movido a dados, comprador só de preço, frequentador casual de academia sem ligação com a cultura, ultramaratonista de trilha.
 
 ## Positioning
+- **Positioning (rodada 13)**: "SODIUM é o headwear de quem corre e treina na cidade depois que escurece: escura por design, acesa quando importa." Categoria de oportunidade: *after-dark run & train headwear*. Mensagem principal: "Any hour"; apoio: "Any pace". Provas obrigatórias: refletivo em todas as peças, tecido técnico para corrida + box, SODIUM Night Runs mensais. Ver `pesquisa/13-posicionamento.md`.
 - **Differentiation**: Marca *headwear-first*, nativa ao mesmo tempo da corrida e do treino híbrido, inclusiva no propósito ("qualquer ritmo") e dark/cinematográfica na estética. Conceito central: **"Só aparece quando a luz bate"** (a cor revela o roxo sob a luz, os detalhes refletivos acendem no flash).
 - **Competitive insight (rodada 12)**: pertencimento ("any pace") já tem dono (Ciele "Everybody run", Tracksmith "amateur spirit") e "community" é clichê. Território livre: **noite/cidade dark + cultura** e **corrida + treino híbrido numa só identidade**. Liderar com "Any hour" e usar "Any pace" como apoio. Ver `pesquisa/12-concorrentes-branding.md`.
 - **Competitors**: Ciele Athletics (headwear de corrida), Satisfy, Bandit, District Vision, Tracksmith (corrida premium/lifestyle), Puma × Hyrox (headwear híbrido), Melin (headwear premium)
