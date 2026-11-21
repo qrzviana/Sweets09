@@ -29,7 +29,7 @@
 ## Brand Personality
 - **Personality Words**: dark, cru, cinematográfico, urbano, confiante
 - **Tone**: Casual e direto, frases curtas e declarativas que terminam com ponto final. Sério na estética, inclusivo na atitude.
-- **Voice Admires**: Satisfy, Bandit, District Vision (fotografia e cinema); HYRO, NORTH, Supreme, Nude Project (força do logotipo)
+- **Voice Admires**: Satisfy, Bandit, District Vision (fotografia e cinema); HYRO, NORTH, Supreme, Nude Project (força do logotipo); SEASE (@seaseofficial, Itália, irmãos Loro Piana: luxo técnico, ponte entre alfaiataria e performance, materiais nobres + tecnologia, estética minimalista e sofisticada)
 
 ## Visual Identity (decisões tomadas)
 - **Colors (APROVADAS)**: Sodium Black #0D0A12 (preto com toque de roxo, inspirado no Amethyst Black da McLaren); reflexo #3B1F5C e brilho #8C5BD0 só onde a luz bate; Bone #ECE8E1; Smoke #8E8796; **Signal Pink #FF2E7E** só como ponto final ■ (no máximo 1%).
