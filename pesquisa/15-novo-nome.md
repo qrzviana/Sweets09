@@ -1,0 +1,68 @@
+# Rodada 15: novo nome (skill brand-naming, modo geração)
+
+*Data: 22/11/2026 · O fundador desistiu de SODIUM.*
+
+**Requisitos do fundador:** nome único, **@ limpo no Instagram** (só o nome) e **.com livre** (só o nome).
+
+## Estratégia do nome
+- **Marca em uma linha:** headwear para quem corre e treina na cidade depois que escurece.
+- **Público:** de 18 a 30 anos, urbano, Londres primeiro.
+- **Ângulo:** a noite, a cidade, o esforço invisível; "escura por design, acesa quando importa".
+- **Território emocional:** cinematográfico, dark, confiante, desejável.
+- **Direções exploradas:** (1) noite + luz em uma palavra; (2) raízes de "escuridão" (latim, nórdico); (3) luz e flash; (4) cidade e asfalto; (5) raízes em português (lusco-fusco, breu).
+- **Evitar:** nomes "de IA" (Nexa, Vanta…), sufixos -ly/-ify/-io, "community", nomes de academia.
+
+## Método de checagem
+Foram testados **~400 nomes** no registro oficial de domínios .com (RDAP da Verisign) em 22/11/2026. Resposta 404 = livre; 200 = registrado. Quase todas as palavras curtas e reais já têm dono (nox, nyx, umbra, myrk, breu, lusco, kveld, dusq…). Sobraram principalmente compostos e palavras inventadas.
+
+**Instagram:** não dá para verificar daqui (o Instagram exige login). **O fundador precisa conferir o @ no app antes de decidir.**
+
+## Tabela (somente nomes com .com LIVRE em 22/11/2026)
+
+| Nome | Significado | Clareza | Memória | Som | Visual | Risco | Geral |
+|---|---|:-:|:-:|:-:|:-:|:-:|:-:|
+| **NOIRLIT** | *noir* (preto; o "film noir" do cinema) + *lit* (aceso; e "lit" na gíria Gen Z = incrível) | 8 | 9 | 8 | 9 | Baixo | **9** |
+| **LAMPNOIR** | o preto que nasce da luz (o pigmento "lamp black" é feito da fuligem de lâmpadas) | 7 | 7 | 7 | 7 | Baixo | **7,5** |
+| **STROBELIT** | luz estroboscópica, flash; "run club > nightclub" | 8 | 7 | 7 | 6 | Médio (lembra balada e é longo) | **7** |
+| **GRAINLIT** | o grão do filme + aceso | 7 | 6 | 6 | 6 | Baixo | **6,5** |
+| **LUMEFALL** | quando a luz cai (o anoitecer) | 6 | 6 | 8 | 6 | Baixo | **6,5** |
+| **MYRKAR** | do nórdico antigo *myrkr* = escuridão | 4 | 6 | 7 | 8 | Baixo (difícil de escrever) | **6,5** |
+| NOIRRUN / NOIRMILE | corrida / milha no escuro | 8 | 6 | 6 | 5 | Baixo (literal demais) | 6 |
+| NIGHTGRAIN | grão da noite | 7 | 5 | 6 | 5 | Baixo | 5,5 |
+| MYRKOR / MYRKAN | variações de *myrkr* | 4 | 5 | 6 | 7 | Baixo | 5,5 |
+| VESPERUN | *vesper* (entardecer) + run | 5 | 5 | 6 | 5 | Baixo | 5 |
+| UMBRUN / UMBROR | *umbra* (sombra) + run / variação | 5 | 5 | 5 | 6 | Baixo | 5 |
+| NOKTR / MIRKR | "noite" / "escuridão" sem vogal | 3 | 5 | 4 | 7 | Médio (impossível de escrever de ouvido) | 4 |
+
+## Top 5
+1. **NOIRLIT:** o posicionamento numa palavra só: *escura (noir) e acesa (lit)*. Lembra o cinema noir da sua estética e a gíria "lit" da Geração Z.
+2. **LAMPNOIR:** uma história linda (o preto feito de luz), mas "lamp" puxa para decoração de casa.
+3. **STROBELIT:** flash e noite, com energia de festa. Longo e mais "balada" do que corrida.
+4. **GRAINLIT:** o grão do filme aceso, cinematográfico, mas fraco de som.
+5. **LUMEFALL:** poético (o cair da luz), mas suave demais para uma marca de rua.
+
+## Recomendação
+**NOIRLIT.** Passa nos 7 testes:
+- **Som:** "nwar-lit", que os britânicos conhecem por causa do *film noir*.
+- **Memória e escrita:** duas partes conhecidas.
+- **História:** "escura por design, acesa quando importa".
+- **Logo:** 7 letras com um ritmo bom.
+- **Expansão:** não prende a marca a bonés.
+- **Confiança:** soa premium e de moda.
+
+Tudo o que já foi aprovado (preto-ametista, flash, sinal rosa, "só aparece quando a luz bate", "Any hour.") continua funcionando sem mudança.
+
+Riscos: alguém pode pronunciar "noir" errado (fácil de corrigir) e o "lit" pode soar como gíria passageira. O sentido literal (aceso) é permanente, o que segura o risco.
+
+## Antes de fechar
+- [x] Domínio noirlit.com: **livre** em 22/11/2026 (Verisign RDAP). Registrar logo, porque custa ~US$ 10/ano.
+- [ ] Instagram @noirlit: **conferir no app**.
+- [ ] TikTok @noirlit: conferir.
+- [ ] Marca: UKIPO e EUIPO, classes 25/18/35 (a busca na web não achou nada com esse nome).
+- [ ] Falar em voz alta com britânicos.
+- [ ] Teste de escrita de ouvido.
+- [ ] Significados indesejados: nenhum encontrado.
+
+## Fontes
+- Verisign RDAP: https://rdap.verisign.com/com/v1/domain/noirlit.com (404 = não registrado)
+- Busca web por marcas: https://www.dexigner.com/news/11608
