@@ -3,8 +3,9 @@
 > Atualizado em 13/11/2026 (rodadas 1–8 de `pesquisa/` + respostas do fundador na skill brand-context). Ainda pendente: validar a linguagem do público com entrevistas reais e a busca de marca do nome.
 
 ## Brand
-- **Name**: EM DEFINIÇÃO (SODIUM descartado em 22/11/2026). NOIRLIT descartado (@ ocupado). Favorito agora: NOIRFLASH (noirflash.com livre em 22/11; @ a conferir); alternativas: KERBLIGHT, NOIRSTRIDE, NOIRMILE. Ver `pesquisa/15-novo-nome.md`
-- **Instagram**: a definir (o @sodium.run foi criado antes da troca de nome)
+- **Name**: **BRUNNANCE** (DEFINIDO em 22/11/2026). Vem de *brunante*, palavra do francês do Quebec para o momento em que a luz do dia se apaga. Pronúncia: "BROO-nance" (rima com *nuance*). SODIUM e as opções intermediárias foram descartados (ver `pesquisa/15-novo-nome.md`)
+- **Domínios**: brunnance.com (principal) + brunance.com (redirecionamento para quem escreve com um N), ambos livres em 22/11/2026: registrar
+- **Instagram**: @brunnance. Atenção: @brunance (com um N) pertence a uma pessoa ativa; reforçar o "NN" no design e nas legendas
 - **Category**: Headwear de corrida e treino híbrido (bonés 5-panel, toucas técnicas, headbands; mais tarde viseiras e bandanas), com estética streetwear
 - **Description**: Headwear para quem corre a cidade e treina pesado, em qualquer ritmo e a qualquer hora.
 - **Stage**: Pré-lançamento. Lançamento previsto entre jan e fev de 2027 com o trio de inverno (boné, touca e headband)
