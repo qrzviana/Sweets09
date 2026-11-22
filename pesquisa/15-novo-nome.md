@@ -83,3 +83,12 @@ Novos critérios: além do .com livre e do @ limpo, o nome **tem que soar bem em
 Também livres: rimnoir, nightrim, rimdark, afterrim, noirsign, noirglint, kerbnoir, pacenoir, noirlap, lateflash.
 
 **Recomendação: NOIRFLASH.** Mantém o "noir" que o fundador gostou, e o "flash" é exatamente o conceito "só aparece quando a luz bate": o logo refletivo acende no flash da foto. Em inglês são duas sílabas fortes ("nwar-flash"), fáceis de escrever depois de ouvir uma vez. Funciona como hashtag (#noirflash) e como nome de formato de conteúdo ("the noirflash test").
+
+---
+
+## Rodada 15c (22/11/2026): "noir flash é brega"
+Diagnóstico: compostos do tipo "palavra + palavra" (noir+flash, kerb+light) soam forçados. Foram testadas mais ~800 combinações (Verisign RDAP):
+- **Todas as palavras reais testadas estão registradas:** owlight, gloaming, dimpsy, evenfall, darkling, ouzel, sabler, lantern, wick, umbrous, tenebre… Inclusive as raras, arcaicas e dialetais.
+- **Nomes curtos inventados (4–6 letras) bonitos estão registrados.** Os livres soam mal (krudon, stixix, drynel…).
+- **O que ainda está livre e soa inglês:** nomes no formato de lugar britânico (raiz + -fell/-ford/-mere/-by/-holt), como ROOKFELL, GLOAMFORD, UMBERFELL, DUSKBY e SOMBREMERE. Risco: podem soar "herança" ou "RPG de fantasia" (existem Gloamwood e Umberwood em jogos).
+- **Conclusão:** um nome "nota 10" com .com e @ exatos exige **um nome inventado com cara de marca**. Para isso é preciso definir com o fundador o som e o estilo desejados (curto e duro tipo HYRO/NORTH, ou elegante tipo SEASE).
