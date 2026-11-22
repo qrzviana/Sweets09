@@ -33,9 +33,9 @@
 - **Voice Admires**: Satisfy, Bandit, District Vision (fotografia e cinema); HYRO, NORTH, Supreme, Nude Project (força do logotipo); SEASE (@seaseofficial, Itália, irmãos Loro Piana: luxo técnico, ponte entre alfaiataria e performance, materiais nobres + tecnologia, estética minimalista e sofisticada)
 
 ## Visual Identity (decisões tomadas)
-- **Colors (APROVADAS)**: Sodium Black #0D0A12 (preto com toque de roxo, inspirado no Amethyst Black da McLaren); reflexo #3B1F5C e brilho #8C5BD0 só onde a luz bate; Bone #ECE8E1; Smoke #8E8796; **Signal Pink #FF2E7E** só como ponto final ■ (no máximo 1%).
-- **Typography**: SODIUM GROTESK v0.1, fonte própria (`pesquisa/fonte/`). Black, reta, curvas squircle com contraformas retangulares, ink traps. Versões Wide (wordmark/campanha) e Compact (produto/redes). **[EM REVISÃO pelo fundador]**
-- **Signature device**: o quadrado rosa como ponto final ("SODIUM■", "ANY PACE■ ANY HOUR■").
+- **Colors (APROVADAS)**: Brunnance Black #0D0A12 (preto com toque de roxo, inspirado no Amethyst Black da McLaren); reflexo #3B1F5C e brilho #8C5BD0 só onde a luz bate; Bone #ECE8E1; Smoke #8E8796; **Signal Pink #FF2E7E** só como ponto final ■ (no máximo 1%).
+- **Typography**: Fonte própria v0.1 (arquivos ainda com o nome antigo, SodiumGrotesk) (`pesquisa/fonte/`). Black, reta, curvas squircle com contraformas retangulares, ink traps. Versões Wide (wordmark/campanha) e Compact (produto/redes). **[EM REVISÃO pelo fundador]**
+- **Signature device**: o quadrado rosa como ponto final ("BRUNNANCE■", "ANY HOUR■").
 - **Imagery**: fotografia de filme, flash direto à noite, concreto, asfalto, suor, movimento, a cidade como cenário.
 
 ## Values & Mission
