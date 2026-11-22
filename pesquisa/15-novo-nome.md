@@ -92,3 +92,21 @@ Diagnóstico: compostos do tipo "palavra + palavra" (noir+flash, kerb+light) soa
 - **Nomes curtos inventados (4–6 letras) bonitos estão registrados.** Os livres soam mal (krudon, stixix, drynel…).
 - **O que ainda está livre e soa inglês:** nomes no formato de lugar britânico (raiz + -fell/-ford/-mere/-by/-holt), como ROOKFELL, GLOAMFORD, UMBERFELL, DUSKBY e SOMBREMERE. Risco: podem soar "herança" ou "RPG de fantasia" (existem Gloamwood e Umberwood em jogos).
 - **Conclusão:** um nome "nota 10" com .com e @ exatos exige **um nome inventado com cara de marca**. Para isso é preciso definir com o fundador o som e o estilo desejados (curto e duro tipo HYRO/NORTH, ou elegante tipo SEASE).
+
+---
+
+## Rodada 15d (22/11/2026): estilo B, elegante e fluido (SEASE, Rhude, Aimé)
+Respostas do fundador: estilo **B**; significado é bem-vindo, mas não é obrigatório; sem restrição de letras.
+Testados ~500 nomes. Todos abaixo têm **.com livre** (Verisign RDAP, 22/11/2026) e **nenhuma presença na web**:
+
+| # | Nome | Como se fala (inglês) | Significado | Nota |
+|---|---|---|---|:-:|
+| 1 | **BRUNANCE** | "BROO-nance" (rima com *nuance*) | De *brunante*, palavra do francês do Quebec para **o momento em que a luz do dia se apaga**. É o "after dark" num nome | **9,5** |
+| 2 | **SAELINE** | "say-LEEN" | Sem significado direto; ecoa *Selene*, a lua. O mais fluido e "moda" de todos | 9 |
+| 3 | **OMBRAINE** | "om-BRAYN" | De *ombra*, sombra em italiano (aceno à SEASE) | 8,5 |
+| 4 | **ALABRUNE** | "AH-la-broon" | Do francês *à la brune*, "ao anoitecer" | 8 |
+| 5 | **SOIRANE** | "swah-RAHN" | De *soir*, noite/entardecer em francês | 7,5 |
+
+Também livres: lucaine, noctaine (soa farmacêutico), duskaine, nuitane, saelene, saelore, ombresse, ombrante.
+
+**Recomendação: BRUNANCE.** Une as três exigências: soa natural em inglês (o padrão de *nuance*, *brilliance*, *radiance*), é elegante e fluido, e carrega exatamente o posicionamento: a hora em que a luz some e o treino começa. Risco: *brun* é "marrom" em francês, o que é irrelevante no Reino Unido e não tem conotação negativa.
