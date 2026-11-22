@@ -110,3 +110,22 @@ Testados ~500 nomes. Todos abaixo têm **.com livre** (Verisign RDAP, 22/11/2026
 Também livres: lucaine, noctaine (soa farmacêutico), duskaine, nuitane, saelene, saelore, ombresse, ombrante.
 
 **Recomendação: BRUNANCE.** Une as três exigências: soa natural em inglês (o padrão de *nuance*, *brilliance*, *radiance*), é elegante e fluido, e carrega exatamente o posicionamento: a hora em que a luz some e o treino começa. Risco: *brun* é "marrom" em francês, o que é irrelevante no Reino Unido e não tem conotação negativa.
+
+---
+
+## Rodada 15e (22/11/2026)
+- @brunance pertence a uma **pessoa ativa** e @saeline está ocupado.
+- **BRUNNANCE** (brunnance.com livre) fica como plano B. Risco: quem ouve o nome escreve com um N só e cai no perfil ativo de outra pessoa.
+- Nova leva no padrão "-ance" (a música de *nuance*), todos com **.com livre** (Verisign RDAP, 22/11/2026):
+
+| Nome | Fala | Significado | Nota |
+|---|---|---|:-:|
+| **SOIRANCE** | "swah-RANCE" | *soir* (entardecer, como em *soirée*) + -ance | 9 |
+| **DUSKANCE** | "DUSK-ance" | *dusk* (anoitecer) + -ance; o sentido fica claro em inglês | 8,5 |
+| **OMBRAINE** | "om-BRAYN" | *ombra* (sombra) | 8,5 |
+| **VESPRANCE** | "ves-PRANCE" | *vesper* (entardecer) + -ance | 8 |
+| **ALABRUNE** | "AH-la-broon" | *à la brune* (ao anoitecer) | 8 |
+| **NUITANCE** | "nwee-TANCE" | *nuit* (noite) + -ance | 7,5 |
+| BRUNNANCE | "BROO-nance" | *brunante* (o momento em que a luz se apaga) | 8 (com risco) |
+
+Próximo passo: o fundador confere os @ de toda a lista de uma vez.
