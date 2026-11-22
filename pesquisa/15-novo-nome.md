@@ -66,3 +66,20 @@ Riscos: alguém pode pronunciar "noir" errado (fácil de corrigir) e o "lit" pod
 ## Fontes
 - Verisign RDAP: https://rdap.verisign.com/com/v1/domain/noirlit.com (404 = não registrado)
 - Busca web por marcas: https://www.dexigner.com/news/11608
+
+---
+
+## Rodada 15b (22/11/2026): o @noirlit está ocupado
+Novos critérios: além do .com livre e do @ limpo, o nome **tem que soar bem em inglês**. Testados mais ~110 nomes (Verisign RDAP). Os 5 abaixo têm **.com livre** e **nenhuma presença encontrada na web** (o que indica, mas não garante, que o @ esteja livre).
+
+| # | Nome | Leitura em inglês | Significado | Nota |
+|---|---|---|---|:-:|
+| 1 | **NOIRFLASH** | "nwar-flash" | *noir* (o preto, o cinema noir) + *flash* (o momento em que a luz bate e o refletivo acende). Evolução direta do NOIRLIT | **10** |
+| 2 | **KERBLIGHT** | "kurb-light" | *kerb* (o meio-fio, em inglês britânico) + *light*: a luz da rua onde se corre à noite. Muito londrino | 9 |
+| 3 | **NOIRSTRIDE** | "nwar-stride" | *noir* + *stride* (a passada) | 8,5 |
+| 4 | **NOIRMILE** | "nwar-mile" | *noir* + *mile* (o Reino Unido mede em milhas) | 8 |
+| 5 | **LATEPACE** | "late-pace" | "Any hour" + "Any pace" numa palavra | 7,5 |
+
+Também livres: rimnoir, nightrim, rimdark, afterrim, noirsign, noirglint, kerbnoir, pacenoir, noirlap, lateflash.
+
+**Recomendação: NOIRFLASH.** Mantém o "noir" que o fundador gostou, e o "flash" é exatamente o conceito "só aparece quando a luz bate": o logo refletivo acende no flash da foto. Em inglês são duas sílabas fortes ("nwar-flash"), fáceis de escrever depois de ouvir uma vez. Funciona como hashtag (#noirflash) e como nome de formato de conteúdo ("the noirflash test").
