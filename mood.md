@@ -32,3 +32,26 @@ dark · cru · cinematográfico · urbano · confiante · elegante (luxo técnic
 - Serifas de herança, verde e creme, quiet luxury.
 - Rosa como cor de fundo ou de bloco grande.
 - Visual genérico de template, "techy" ou sci-fi.
+
+---
+
+## V3 (22/11/2026): vibe dos novos moodboards do fundador (`pesquisa/moodboard/v3/`)
+**"Discipline in the dark. Luxury as the reward."**
+1. **Disciplina no escuro:** lanterna de cabeça, asfalto molhado, luz de sódio, borrão de movimento em P&B. *"Do the work even when nobody claps."*
+2. **Ambição silenciosa:** Rolex, Porsche 911, Rolls-Royce, Bateman. O luxo é a recompensa do esforço, não ostentação.
+3. **A noite é social:** DJ, crowd, "Training Club", crews. Treino e cena cultural juntos.
+4. **Texto cru:** notas de iPhone, tela de Nokia, caixa-alta vermelha ("No plan B", "Dear me in 6 months").
+
+**Paleta V3 (em exploração; substituirá os tokens quando aprovada):**
+- Night Plum `#11001C` (base)
+- Aubergine `#220135`
+- Plum Noir `#3A0258`
+- Ultraviolet `#520380` (luz)
+- Almond Oil `#EEE6CC` (texto)
+- Moonlit Silver `#B3B3B3` (refletivo)
+- Signal `#FF2E7E`
+
+**Direções em avaliação (canvas, página "BRUNNANCE v3"):**
+- **A — Night Discipline:** caixa-alta condensada, frases de ordem.
+- **B — Quiet Money:** serifa itálica, creme sobre ameixa, luxo silencioso.
+- **C — Note to Self:** linguagem de celular, para conteúdo.
